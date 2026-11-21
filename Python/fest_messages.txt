@@ -1,0 +1,15 @@
+1. Hello admin, please register me for the tech fest on 14/02/2026. My email is aakash.patel@example.com, phone 9876543210, fee Rs 250.
+2. Looking forward to the cultural night on 15/02/2026! Contact me at priya.sharma@example.com, mobile: 8765432109, fee Rs 500.
+3. Registration confirmation needed for rahul_k@example.com, call 7654321098, amount Rs 250.
+4. Error trying to sign up with incomplete@example.
+5. Here is my team lead email: sneha.m@example.com, ph: 6543210987, fee Rs 750.
+6. Please send passes to amit.verma@example.com, cell 9123456789, fee Rs 300.
+7. Invalid email submission test: missingat.example.com.
+8. Event query from kirti.shah@example.com, phone 8234567890, fee Rs 400.
+9. Confirming participation for vikram.r@example.com, contact 7345678901, fee Rs 250.
+10. Another malformed test case: bad@@example.com.
+11. Hackathon participant: pooja.patel@example.com, mobile 9456789012, fee Rs 600.
+12. Quiz competition entry from rohit.mehta@example.com, phone 6567890123, fee Rs 150.
+13. Dance event registration: neha.gupta@example.com, cell 7789012345, fee Rs 450.
+14. Photography contest entry by manish.jain@example.com, ph 8890123456, fee Rs 350.
+15. Final spot registration request from divya.shah@example.com, phone 9901234567, fee Rs 500.

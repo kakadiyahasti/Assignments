@@ -1,0 +1,15 @@
+1. Hello admin, please register me for the tech fest on 14/02/2026. My email is aakash.patel@example.com, phone XXXXXX3210.
+2. Looking forward to the cultural night on 15/02/2026! Contact me at priya.sharma@example.com, mobile: XXXXXX2109.
+3. Registration confirmation needed for rahul_k@example.com, call XXXXXX1098.
+4. Error trying to sign up with incomplete@example.
+5. Here is my team lead email: sneha.m@example.com, ph: XXXXXX0987.
+6. Please send passes to amit.verma@example.com, cell XXXXXX6789.
+7. Invalid email submission test: missingat.example.com.
+8. Event query from kirti.shah@example.com, phone XXXXXX7890.
+9. Confirming participation for vikram.r@example.com, contact XXXXXX8901.
+10. Another malformed test case: bad@@example.com.
+11. Hackathon participant: pooja.patel@example.com, mobile XXXXXX9012.
+12. Quiz competition entry from rohit.mehta@example.com, phone XXXXXX0123.
+13. Dance event registration: neha.gupta@example.com, cell XXXXXX2345.
+14. Photography contest entry by manish.jain@example.com, ph XXXXXX3456.
+15. Final spot registration request from divya.shah@example.com, phone XXXXXX4567.
